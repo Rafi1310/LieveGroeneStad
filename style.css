@@ -57,3 +57,40 @@ img {
     display: block;
     margin: auto;
 }
+
+iframe {
+    display: block;
+    margin: auto;
+    width: 50vh;
+    height: 50vh;
+}
+
+ul {
+    color: #CBD18F;
+}
+
+footer h4 {
+    text-align: left;
+    padding: 0.5em;
+    margin-bottom: 0;
+}
+
+footer p {
+    color: black;
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+    padding-left: 0.5em;
+}
+
+footer p:nth-child(3) {
+    margin-bottom: 1.2em;
+}
+
+section a {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    padding: 0.5em;
+}
