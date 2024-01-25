@@ -24,12 +24,19 @@ nav a {
     color: black;
 }
 
+header {
+    background-color: #E3B448;
+}
+
+.logo {
+    border: 0.5em solid #E3B448;
+    background-color: #E3B448;
+    width: 20vh;
+    height: 10vh;
+}
+
 h1 {
     text-align: center;
-    border: 2px solid #E3B448;
-    background-color: #E3B448;
-    margin-bottom: 0;
-    margin-top: 0;
 }
 
 h2 {
